@@ -12,3 +12,4 @@ done!!
 
 # npm config get prefix
 https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
+https://github.com/KraigM/homebridge-harmonyhub/issues/97
