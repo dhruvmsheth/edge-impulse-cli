@@ -9,3 +9,6 @@ To install the cli on ubuntu or linux - follow this:
 #  sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
 # npm install -g edge-impulse-cli
 done!!
+
+# npm config get prefix
+https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
