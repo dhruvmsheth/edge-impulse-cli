@@ -1,6 +1,6 @@
 # Edge Impulse CLI Installation guide
 
-## To install the cli on ubuntu 20.10 or raspbian os - follow this guide to avoide breaking your sudo system:
+## To install the cli on ubuntu 20.10 or raspbian os - follow this guide to avoid breaking your sudo command:
 
 ### Option 1- Installation on Ubuntu 20.10:
 
