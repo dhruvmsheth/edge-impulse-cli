@@ -102,7 +102,7 @@ $ npm install -g edge-impulse-cli
 ```
 This installs the Edge-impulse-cli and so, you can go ahead and execute the commands to configure mcu with the Edge impulse dashboard.
 
-#### Bingo! Now you have installed the cli on Raspbiaj os
+#### Bingo! Now you have installed the cli on Raspbian OS
 
 If there are any error you come across, create an issue and I will help solve it :)
 
