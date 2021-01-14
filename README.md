@@ -89,7 +89,7 @@ $ npm config set prefix '~/.npm-global'
 
 In your preferred text editor, open or create a ~/.profile file and add this line:
 ```bash
-$ export PATH=~/.npm-global/bin:$PATH
+export PATH=~/.npm-global/bin:$PATH
 ```
 
 On the command line, update your system variables:
