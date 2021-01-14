@@ -79,22 +79,22 @@ $ npm config get prefix
 This command should return **usr/local**. Now follow the below steps, to set it on path so you do not require administrative permisiions
 
 ```bash
-mkdir ~/.npm-global
+$ mkdir ~/.npm-global
 ```
 
 Configure npm to use the new directory path:
 ```bash
-npm config set prefix '~/.npm-global'
+$ npm config set prefix '~/.npm-global'
 ```
 
 In your preferred text editor, open or create a ~/.profile file and add this line:
 ```bash
-export PATH=~/.npm-global/bin:$PATH
+$ export PATH=~/.npm-global/bin:$PATH
 ```
 
 On the command line, update your system variables:
 ```bash
-source ~/.profile
+$ source ~/.profile
 ```
 Now install the cli:
 ```bash
