@@ -71,6 +71,15 @@ $ node -v
 ```bash
 $ curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh
 ```
+If it returns that the directory is not on path, type 
+```bash
+npm config get prefix
+```
+Whatever output you get-add in place of home/dave/work
+```bash
+export PATH=/home/dave/work:$PATH
+```
+
 #### The above script installs arduino cli
 
 ```bash
